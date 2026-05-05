@@ -1,3 +1,31 @@
+Scanned notes are elsewhere:
+ * [alfresco](https://alfresco.jpl.nasa.gov/share/page/site/mdnav/document-details?nodeRef=workspace://SpacesStore/0369ad3a-5f27-4a0d-baf2-ed02d33b99a4)
+ * [github](https://github.com/user-attachments/files/27406944/Fundamentals.Principles.and.Selected.Topics.in.Linear.Estimation.Gerald.Bierman.1980.April.2.pdf)
+
+# Key Topics to be Covered (as listed in the notes)
+1. Basics of Probability (p 3)
+2. Numerical Analysis Fundamentals
+3. Weighted Least Squares Parameteric Estimation (p 20)
+4. Square Root Information Filter Data Analysis (p 141)
+5. Linear Kalman Filtering (Minimum Variance Estimation) (p 26)
+6. Fixed Point, Fixed Log(?), and Fixed Internal Smoothing (p 147)
+7. Covariance Error Analysis (p 129)
+    * Incorrect A Priori Statistics
+    * Unmodeled Parameters
+    * Suboptimal Filter Strategies
+    * Error Budgets
+8. Time Invariant Systems
+    * Chandrasekhar Algorithms
+    * Riccati Equations
+9. U-D Factorized Kalman Filtering (p 45)
+10. Nonlinear Filtering
+    * Extended Kalman Filter
+    * Iterated Sequential Least Squares
+    * Adaptive Estimators
+
+I have yet to notice any comments in the notes on time-invariant systems or nonlinear filter.
+
+# Outline of the Notes (by inspection)
  * 1.1	Basics of Probability Theory (p 3)
    * 1.4	Joint Probability Distribution Function (p 6)
    * Problems (p 12)
@@ -48,7 +76,7 @@
    * 7.4	Propagation of Covariance Factors via Orthogonal Transformations	(p 114)
    * HW 7.1	(p 114)
    * 7.5	U-D Factor Propagation, Preliminary Gram-Schmidt Lemma	(p 115)
-   * 7.7	Application to U-D FIlter Propagation	(p 117)
+   * 7.7	Application to U-D Filter Propagation	(p 117)
    * 7.8	Matrix Partitioning to Exploit Presence of Bias Parameters	(p 118)
    * 7.11	Treatment of Colored Noise	(p 121)
    * 7.13	How to Perform Rank-1 Update	(p 123)

@@ -23,7 +23,7 @@ Scanned notes are elsewhere:
     * Iterated Sequential Least Squares
     * Adaptive Estimators
 
-I have yet to notice any comments in the notes on time-invariant systems or nonlinear filter.
+I have yet to notice any comments in the notes on time-invariant systems or nonlinear filtering.
 
 # Outline of the Notes (by inspection)
  * 1.1	Basics of Probability Theory (p 3)
